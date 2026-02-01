@@ -1,10 +1,11 @@
-# <div align="center"> Hi there 👋, I'm Ilyes
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+future+French+teacher)](https://git.io/typing-svg)
+# <div align="center"> Hi there 👋, I'm Jenna
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+developer+in+training+at+CESI)](https://git.io/typing-svg)
+
 ## 💫 A little bit more about me
 
 <br>
 
-- 🔭 I'm currently at the University of Lyon 2 to prepare the CRPE.
+- 🔭 I'm currently a Developer in training at CESI.
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
@@ -21,6 +22,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30px" style="margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30px" style="margin-bottom: 4px;">
 </p>
+
 <br>
 
 ## 👥 Connect with me
