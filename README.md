@@ -1,33 +1,56 @@
-# <div align="center"> Hi there 👋, I'm Jenna
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+developer+in+training+at+CESI)](https://git.io/typing-svg)
+# <div align="center">👋 Salut, moi c’est Jenna</div>
 
-## 💫 A little bit more about me
+### <div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+profil+GitHub+!;Développeuse+en+devenir+au+CESI;Passionnée+par+le+web+et+le+logiciel)](https://git.io/typing-svg)
+</div>
 
-<br>
+---
 
-- 🔭 I'm currently a Developer in training at CESI.
-- 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
+## 🌟 À propos de moi
 
-<br>
+🎓 Étudiante en **développement d’applications** au **CESI**, je me forme aussi bien au **développement web** qu’au **développement logiciel**.  
+💡 J’aime concevoir des projets utiles, structurés et évolutifs, en travaillant aussi bien sur le **front-end** que sur la **logique métier**.  
+🚀 Curieuse et motivée, je cherche constamment à améliorer mes compétences et à relever de nouveaux défis techniques.
 
-## 💻 Skills
+🔎 Tu peux découvrir mes projets ici :  
+👉 **[Mon portfolio](https://portfolio-ilyes.vercel.app/)**
 
-<br>
+---
+
+## 🛠️ Compétences techniques
+
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30px" style="margin-bottom: 4px;">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30px" style="margin-bottom: 4px;">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30px"/>
 </p>
 
-<br>
+---
 
-## 👥 Connect with me
+## 📂 Projets mis en avant
 
-<br>
+✨ Tu trouveras sur mon GitHub :
+- des **applications web** (PHP, React, TypeScript),
+- des **applications desktop** en **C# / .NET**,
+- des projets réalisés dans un cadre **pédagogique** et **personnel**,
+- des bases solides en **architecture**, **base de données** et **gestion des rôles**.
+
+---
+
+## 🤝 Me contacter
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/jenna-ben-hadj-amor-691b0010b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jenna-ben-hadj-amor-691b0010b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+  </a>
 </p>
+
+---
+
+<div align="center">
+✨ Merci de ta visite et bonne exploration de mes projets ✨
+</div>
