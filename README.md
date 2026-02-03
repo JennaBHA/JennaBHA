@@ -12,9 +12,6 @@
 💡 J’aime concevoir des projets utiles, structurés et évolutifs, en travaillant aussi bien sur le **front-end** que sur la **logique métier**.  
 🚀 Curieuse et motivée, je cherche constamment à améliorer mes compétences et à relever de nouveaux défis techniques.
 
-🔎 Tu peux découvrir mes projets ici :  
-👉 **[Mon portfolio](https://portfolio-ilyes.vercel.app/)**
-
 ---
 
 ## 🛠️ Compétences techniques
