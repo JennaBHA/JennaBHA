@@ -1,16 +1,16 @@
 # <div align="center">👋 Salut, moi c’est Jenna</div>
 
 ### <div align="center">
-Passionnée par les systèmes, réseaux et l’infrastructure informatique
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+sur+mon+profil+GitHub+!;Future+Administratrice+Systèmes+%26+Réseaux;Passionnée+par+l’infrastructure+informatique)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ## 🌟 À propos de moi
 
-🎓 Étudiante admise au **Bachelor Administrateur Systèmes & Réseaux au CESI**, je m’oriente vers les métiers de l’infrastructure et du support informatique.  
-💻 J’ai développé au fil de mon parcours des compétences en **maintenance, réseau, systèmes Windows et support utilisateurs**, complétées par une expérience en développement qui me permet d’avoir une vision globale des environnements IT.  
-🚀 Curieuse, rigoureuse et autonome, j’aime comprendre le fonctionnement technique des systèmes et participer à la mise en place d’infrastructures fiables et sécurisées.
+🎓 Admise au **Bachelor Administrateur Systèmes & Réseaux au CESI**, je m’oriente vers les métiers de l’infrastructure et du support IT.  
+💻 Curieuse, rigoureuse et autonome, j’aime comprendre **comment les systèmes communiquent**, diagnostiquer les incidents et participer à la mise en place d’environnements fiables et sécurisés.  
+🔁 Mon parcours inclut aussi des projets en développement, ce qui me donne une **vision globale** (applications ↔ systèmes ↔ réseau) utile en entreprise.
 
 ---
 
@@ -18,56 +18,48 @@ Passionnée par les systèmes, réseaux et l’infrastructure informatique
 
 ### 🖥️ Systèmes & Support
 - Installation et configuration Windows
-- Maintenance matérielle et logicielle
-- Dépannage postes de travail
-- Support utilisateurs
-- Bonnes pratiques de sécurité informatique
+- Dépannage poste de travail (matériel & logiciel)
+- Support utilisateurs (diagnostic, résolution, bonnes pratiques)
+- Notions Active Directory
+- Sécurité : hygiène numérique, mises à jour, sauvegardes
 
 ### 🌐 Réseaux
-- Bases réseaux (IP, DNS, DHCP)
-- Compréhension architecture réseau
-- Diagnostic connectivité
-- Notions équipements réseau
-- Introduction virtualisation
+- Bases réseau : IP, DNS, DHCP
+- Compréhension d’une architecture réseau (LAN/WAN, routage/switching : notions)
+- Diagnostic connectivité (tests, isolation de panne)
+- Sensibilisation aux bonnes pratiques (segmentation, mots de passe, accès)
 
-### ⚙️ Outils & Environnement
-- Git / GitHub
-- Outils bureautiques
-- Environnements de développement
-- Travail collaboratif projet
+### ⚙️ Outils & Méthodes
+- Git / GitHub (versioning, travail en équipe)
+- Documentation & rédaction de procédures
+- Outils bureautiques et collaboration
+- Environnements de dev (atout complémentaire)
 
-### 💡 Compétences complémentaires (Dev)
+### 💡 Compétences complémentaires (Développement)
 - HTML / CSS / JavaScript
 - PHP / SQL
 - React / TypeScript
-- C# /.NET
-
-👉 Cette double compétence me permet de comprendre les interactions entre **applications, systèmes et réseau**.
+- C# / .NET
 
 ---
 
 ## 📂 Projets mis en avant
 
 ✨ Sur mon GitHub, tu trouveras :
+- des projets où j’ai **conçu la base de données**, structuré l’**architecture**, développé l’application, et utilisé **Git**,
+- des réalisations pédagogiques et personnelles montrant ma progression,
+- des projets qui illustrent mon approche : **structurée, propre, documentée**.
 
-- 💻 Projets d’applications web avec gestion base de données
-- 🏗️ Mise en place d’architectures applicatives complètes
-- 🔄 Utilisation de Git en environnement collaboratif
-- 🗄️ Conception et exploitation de bases de données
-- 📚 Projets pédagogiques illustrant ma progression technique
-
-👉 Ces projets témoignent de ma capacité à comprendre l’environnement informatique dans sa globalité.
+👉 Même si certains projets sont orientés dev, ils me servent aussi à démontrer des compétences utiles côté infra : compréhension des flux, logique client/serveur, bases de données, sécurité, méthodes de travail.
 
 ---
 
-## 🎯 Objectif professionnel
+## 🎯 Objectif
 
-Je recherche une **alternance en systèmes & réseaux** afin de :
-
-- développer mes compétences infrastructure
-- participer à la gestion d’un parc informatique
-- contribuer au support utilisateurs
-- évoluer vers un poste d’administratrice systèmes & réseaux
+Je recherche une **alternance en Systèmes & Réseaux** afin de :
+- développer mes compétences infrastructure,
+- contribuer au support utilisateurs et à la gestion d’un parc,
+- participer à l’exploitation et à l’amélioration continue (fiabilité, sécurité, documentation).
 
 ---
 
